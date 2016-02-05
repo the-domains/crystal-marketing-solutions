@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Crystal Marketing Solutions]]></title>
+        <description><![CDATA[Crystal Marketing Solutions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 14:42:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7d71cd9-1cc4-42d2-943a-3720b5b849c4.jpg">]]></description>
+            <link>undefinedd9ad1650-a618-4646-aac2-472c7b7496ff/index.html</link>
+            <guid isPermaLink="false">d9ad1650-a618-4646-aac2-472c7b7496ff</guid>
+            <pubDate>Fri, 05 Feb 2016 14:41:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
