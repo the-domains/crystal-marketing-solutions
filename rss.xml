@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Crystal Marketing Solutions]]></title>
         <description><![CDATA[Crystal Marketing Solutions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crystal-marketing-solutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 14:42:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 18:03:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crystal-marketing-solutions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/635a1588-e469-4eb0-8b9c-d130fa02fabc.png">]]></description>
+            <link>https://thegrid.ai/crystal-marketing-solutions/aa4bfe40-35fc-4c05-9b9a-4066083fa3b7/index.html</link>
+            <guid isPermaLink="false">aa4bfe40-35fc-4c05-9b9a-4066083fa3b7</guid>
+            <pubDate>Tue, 26 Jul 2016 18:03:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7d71cd9-1cc4-42d2-943a-3720b5b849c4.jpg">]]></description>
-            <link>undefinedd9ad1650-a618-4646-aac2-472c7b7496ff/index.html</link>
+            <link>https://thegrid.ai/crystal-marketing-solutions/d9ad1650-a618-4646-aac2-472c7b7496ff/index.html</link>
             <guid isPermaLink="false">d9ad1650-a618-4646-aac2-472c7b7496ff</guid>
             <pubDate>Fri, 05 Feb 2016 14:41:40 GMT</pubDate>
         </item>
